@@ -1,0 +1,1 @@
+default_app_config = 'mayan_custom_app.apps.AutoCategorizeApp'
